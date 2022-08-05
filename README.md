@@ -30,7 +30,7 @@
 ### 2. [Dogfeed][DogfeedLink]
 [DogfeedLink]: https://github.com/sususuoin/DogFeed
 
-> * **실제 쇼핑몰 사이트에 존재하는 주요 기능 구현에 주안점을 둔 강아지 사료 판매 사이트**
+> * **강아지 사료 판매 사이트**
 > 
 > * **개발 기간** : 2022.04.28 ~ 2022.05.04
 > 
