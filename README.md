@@ -10,53 +10,5 @@
 
 <br/><br/>
 
-## 📌 Projects 프로젝트
-### 1. [Travles][TravelsLink] 
-[TravelsLink]: https://github.com/sususuoin/Travels
-
-> * **국내 여행자를 위한 여행정보를 제공하고, 소통할 수 있는 통합형 여행 사이트**
-> 
-> * **개발 기간** : 2022.06.01 ~ 2022.06.30
-> 
-> * **개발 언어 및 환경**  
-> 
->   >JAVA / Servlet/JSP /  Ajax /  HTML5/CSS3 /  Javascript / 
->   >
->   >Spring /  mybatis /  BootStrap5 /  Git
-
-
-
-
-### 2. [Dogfeed][DogfeedLink]
-[DogfeedLink]: https://github.com/sususuoin/DogFeed
-
-> * **강아지 사료 판매 사이트**
-> 
-> * **개발 기간** : 2022.04.28 ~ 2022.05.04
-> 
-> * **개발 언어 및 환경**  
->   >JAVA  /  Servlet/JSP / Ajax / HTML5/CSS3 / Javascript / BootStrap5 / Git
-
-
-
-
-### 3. [Omonemo][OmonemoLink]
-[OmonemoLink]: https://github.com/sususuoin/Omonemo
-
-> * **사용자의 데이터를 기반으로 코디 추천 서비스를 제공하는 안드로이드 애플리케이션**
-> 
-> * **개발 기간** : 2021.06.01 ~ 2021.06.31
-> 
-> * **개발 언어 및 환경**  
->   >Kotlin / MySQL / PHP / Python / AWS / Git
-
-<br/><br/>
-
-  
-## 🏫 Education 학력 및 교육이수
-* 안양대학교 소프트웨어 전공 (2017.03~2022.02) 
-* 쌍용교육센터 Java 풀스택과정 이수 (2022.01~2022.07) 
-<br/><br/>
-
 
 
