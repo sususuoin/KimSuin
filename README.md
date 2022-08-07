@@ -20,7 +20,7 @@
 > 
 > * **개발 언어 및 환경**  
 > 
->   >JAVA / Servlet/jsp /  Ajax /  HTML5/CSS3 /  Javascript / 
+>   >JAVA / Servlet/JSP /  Ajax /  HTML5/CSS3 /  Javascript / 
 >   >
 >   >Spring /  mybatis /  BootStrap5 /  Git
 
@@ -35,7 +35,7 @@
 > * **개발 기간** : 2022.04.28 ~ 2022.05.04
 > 
 > * **개발 언어 및 환경**  
->   >JAVA  /  Servlet/jsp / Ajax / HTML5/CSS3 / Javascript / BootStrap5 / Git
+>   >JAVA  /  Servlet/JSP / Ajax / HTML5/CSS3 / Javascript / BootStrap5 / Git
 
 
 
